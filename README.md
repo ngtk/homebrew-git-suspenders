@@ -1,4 +1,4 @@
-# homebrew-git-suspenders
+# ngtk/git-suspenders
 
 ## Formulae
 * [git-replace-text](https://github.com/ngtk/git-replace-text) : replace text in git repositories.
